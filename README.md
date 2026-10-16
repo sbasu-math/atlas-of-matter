@@ -1,5 +1,7 @@
 # Atlas of Matter
 
+![Atlas of Matter in Table view: the periodic table with a featured photo of gold](assets/table.png)
+
 An interactive periodic table that runs in the browser. All 118 elements react to your cursor, change state as you adjust the temperature, and can be combined in a small chemistry lab.
 
 **Live demo:** https://sbasu-math.github.io/atlas-of-matter/
