@@ -2,7 +2,7 @@
 
 An interactive periodic table that runs in the browser. All 118 elements react to your cursor, change state as you adjust the temperature, and can be combined in a small chemistry lab.
 
-**Live demo:** https://YOUR-USERNAME.github.io/atlas-of-matter/
+**Live demo:** https://sbasu-math.github.io/atlas-of-matter/
 
 Built with [Claude Code](https://claude.com/claude-code) from three plain-English prompts. I did not write the code by hand.
 
