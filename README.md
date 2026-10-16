@@ -39,6 +39,7 @@ To run it locally, download the repository and open `index.html` in a browser.
 ## Limitations
 
 - The compound animation shows what a molecule is **made of** and its final shape, not the reaction pathway chemists actually use to synthesize it.
+- The compound builder handles almost any known compound, not every one: very large molecules and unusual names can fail to load.
 - The content was generated with AI assistance. Check facts against a primary source before using it for teaching.
 
 ## Credits
